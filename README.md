@@ -10,5 +10,7 @@ Working Folder Location
 Clone the repo\
 Update config.ini file only as\
 `ProjectFolder=D:\Projects\djanogo\testbranch` (don't add `\` at end) \
+`Branch=dev` (this option will be updated next, meanwhile you can keep it empty or your branch name)\
+`Location=` (Next update)\
 Save\
 Double-Click on rmbr.bat
