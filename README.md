@@ -1,6 +1,6 @@
 # Delete Branches
 This simple script will list out and gives option to remove local branches.\
-After ***feature/patch/hotfix*** branches are merged with main branch and deleted in remote, the traces remains in VS Code.\
+After ***feature/patch/hotfix*** branches are merged with main branch & deleted in remote, traces remains in VS Code.\
 This script helps to resolve that.
 
 # Up Coming
